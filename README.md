@@ -13,11 +13,11 @@
 
 ---
 
-### 🧰 Languages and Tools:
+### 🧰 languagesAndTools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c" height="30"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask" height="30"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" height="30"/>
@@ -46,4 +46,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinod-kumar-sharma)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/changotravinod)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vinu7083)
-
